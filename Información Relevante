@@ -1,0 +1,17 @@
+Usuario y Contraseña: 
+user – 1234 
+ 
+Direccion IP estatica: 
+10.1.201.157 
+ 
+Versiones: 
+Mysql: mysql  Ver 15.1 Distrib 10.11.8-MariaDB 
+Apache: Apache/2.4.58 (Ubuntu) 
+Php: PHP 8.3.6 (cli) 
+ 
+Directorio: 
+/var/www/webpractica.com 
+ 
+DNS: 
+C:/Windows/Sistem32/Drivers/etc/hosts 
+10.1.201.157 webpractica.com
